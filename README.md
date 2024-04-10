@@ -1,1 +1,3 @@
 This projects focus is building a guidance system for a flight controller
+
+Project boi's go naked in the sauna...
